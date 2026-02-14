@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+# Мое резюме:
+ - [Резюме](https://github.com/ссылка)
+
+# Сертификаты:
+ - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/VladSedun/VladSedun/blob/main/certificate.pdf)/[EN](https://github.com/VladSedun/VladSedun/blob/main/certificate_en.pdf)
+
+# Курсы:
+<table>
+<tr>
+  <th>Название курса</th>
+  <th>Форма обучения</th>
+  <th>Статус</th>
+</tr> 
+<tr>
+  <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
+  <td>Дистанционная</td>
+  <td>Завершен</td>
+</tr> 
+</table>
+
+
 # Проекты:
 ## Аналитика:
 <details open>
