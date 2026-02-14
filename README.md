@@ -4,7 +4,7 @@
  - [Резюме](https://github.com/ссылка)
 
 # Сертификаты:
- - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/VladSedun/VladSedun/blob/main/certificate.pdf)/[EN](https://github.com/VladSedun/VladSedun/blob/main/certificate_en.pdf)
+ - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/VladSedun/VladSedun/blob/main/certificate_ru_yandex.pdf)/[EN](https://github.com/VladSedun/VladSedun/blob/main/certificate_en_yandex.pdf)
 
 # Курсы:
 <table>
