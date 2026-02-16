@@ -34,7 +34,7 @@
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/VladSedun/Data-preparation-for-credit-scoring">Исследование надёжности заёмщиков</a></td>
+  <td><a href = "https://github.com/VladSedun/Borrower_reliability_research">Исследование надёжности заёмщиков</a></td>
   <td>Яндекс.Практикум</td>
   <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
   <td>Завершен</td>
