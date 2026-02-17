@@ -78,10 +78,10 @@
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/VladSedun/Profit-prediction-upon-oil">Прогнозирование прибыли от нефтяных скважин</a></td>
+  <td><a href = "https://github.com/VladSedun/Well_location_selection">Выбор локации для скважины</a></td>
   <td>Яндекс.Практикум</td>
   <td>Нужно решить, где бурить новую нефтяную скважину для получения наибольшей прибыли</td>
-  <td>ОЖИДАНИЕ</td>
+  <td>Завершен</td>
 </tr>
   
 <tr>
